@@ -149,7 +149,7 @@ input.defaultButton {
 
 #breadcrumb {
     color: #666666;
-    padding-top: .5em;
+    padding-top: 2.5em;
 }
 #breadcrumb a.current {
     font-weight: bold;
@@ -268,7 +268,7 @@ a:hover {
 }
 #container {
     line-height: 1.5em;
-    margin: 0 auto;
+    margin: 0px auto;
     width: 83%;
 }
 div {
@@ -299,7 +299,7 @@ body {
 	margin: 0;
 	margin-right: 16em;
 	margin-right: 12rem;
-	/* border-top: 3px solid #CCCCCC; */
+	border-top: 3px solid #CCCCCC;
 	margin-left: 1.18em;
 	margin-left: 1rem;
 	padding: 0.5em 0 0;
@@ -405,7 +405,7 @@ body {
 
 #issues h3,
 h4.tocSectionTitle {
-    border-bottom: 2px solid #5ca0c3;
+    border-bottom: 2px solid #CCCCCC;
     margin-top: 1em;
 }
 #issues .issueCoverImage {
