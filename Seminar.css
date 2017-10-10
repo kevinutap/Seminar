@@ -91,10 +91,10 @@ input.defaultButton {
 #navbar {
 	padding: 0;
 	margin-right: 0;
-	border: 1px solid gray;
+	border: 1px solid #e0e3e5;
 	border-top: none;
 	border-width: 1px 1px 5px 0px;
-	border-color: #aeb0b2 #aeb0b2 black #aeb0b2;
+	border-color: #e0e3e5 #e0e3e5 black #e0e3e5;
 	text-align: center;
 	background-color: #fbfbfb;
 	box-sizing: border-box;
@@ -287,7 +287,7 @@ body {
     padding: 0;
     width: 100%;
     border: 0px solid #333435;
-    border-top: 1px solid #aeb0b2;
+    border-top: 1px solid #e0e3e5;
     /* margin-right: -1rem; */
     float: right;
 }
