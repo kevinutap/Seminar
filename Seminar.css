@@ -367,6 +367,11 @@ body {
 #content h4 + * {
     margin-top: .1em;
 }
+
+#content p.Seminar-abstract {
+	font-style: italic;
+}
+
 /* FOOTER START */
 
 #pageFooter {
