@@ -375,8 +375,9 @@ body {
 }
 
 #content p.MsoNormal span[style], #content p.Seminar-abstract span[style] {
-line-height: 1.5em !important;
+line-height: 1.8em !important;
 font-size: .85rem !important;
+font-family: Verdana,Arial,Helvetica,sans-serif !important;
 }
 
 #content p{
