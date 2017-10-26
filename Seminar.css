@@ -383,6 +383,12 @@ font-family: Verdana,Arial,Helvetica,sans-serif !important;
 #content p{
 	text-align: justify;
 }
+
+#content p.seminar-references {
+    margin-left: 3em;
+    text-indent: -3em;
+}
+
 /*HTML article content end*/
 
 /* FOOTER START */
