@@ -372,10 +372,12 @@ body {
 	font-style: italic;
 }
 
-#content p.MsoNormal span[style] {
+#content p.MsoNormal span[style], #content p.Seminar-abstract span[style] {
 line-height: 1.5em !important;
 font-size: .85rem !important;
 }
+
+
 
 /* FOOTER START */
 
