@@ -389,6 +389,15 @@ font-family: Verdana,Arial,Helvetica,sans-serif !important;
     text-indent: -3em;
 }
 
+#content > div > div > div {
+	overflow:  auto;
+}
+
+table {
+    margin-left:auto; 
+    margin-right:auto;
+}
+
 /*HTML article content end*/
 
 /* FOOTER START */
